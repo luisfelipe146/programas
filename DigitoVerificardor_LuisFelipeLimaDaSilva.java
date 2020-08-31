@@ -2,11 +2,8 @@
 CURSO: ANÁLISE E
 DESENVOLVIMENTO DE SISTEMAS
 
-1º AVALIAÇÃO PARCIAL (AP1) - ADSM-MODI
 Aluno (a): Luis Felipe Lima da Silva
 Disciplina: Lógica de Programação
-Professor (a): Tiago Guimarães Sombra
-Campus: Guilherme Rocha
 */
 import java.util.Scanner;
 class Main{
