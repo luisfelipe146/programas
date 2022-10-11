@@ -1,2 +1,1 @@
-# programas
-*Projetos de faculdade em geral* 
+# Projetos de faculdade em geral
